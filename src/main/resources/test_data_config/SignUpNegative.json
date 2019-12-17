@@ -1,0 +1,37 @@
+[
+  {
+    "firstName": "Best",
+    "lastName": "Bestov",
+    "password": "Qwerty!23",
+    "email": "egor.rv@gmail.com",
+	"errorMessage": "You have already registered",
+	"apiError": "You have already registered"
+  },
+  {
+    "firstName": "Best",
+    "lastName": "Bestov",
+    "password": "Qwerty!23",
+    "email": "nagibator666.com",
+	"errorMessage": "Invalid e-mail",
+	"apiError": "E-mail is not valid",
+	"errorField": "email"
+  },
+  {
+    "firstName": "Best",
+    "lastName": "Bestov",
+    "password": "Qw1!e",
+    "email": "12fa5c8de122@gmail.com",
+	"errorMessage": "Your password must be at least 6 characters long and contain at least 1 letter and 1 digit",
+	"apiError": "Invalid password length",
+	"errorField": "password"
+  },
+  {
+    "firstName": "",
+    "lastName": "Bestov",
+    "password": "qwerty123",
+    "email": "a486bc56aa45@gmail.com",
+	"errorMessage": "Fill in the field",
+	"apiError": "First name is required",
+	"errorField": "first_name"
+  }
+]

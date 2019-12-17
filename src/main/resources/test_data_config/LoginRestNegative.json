@@ -1,0 +1,12 @@
+[
+  {
+    "password": "qwerty123",
+    "email": "a486bc56aa45@gmail.com",
+	"errorMessage": "Invalid credentials"
+  },
+  {
+    "password": "Qwerty!23",
+    "email": "nagibator666.com",
+	"errorMessage": "Invalid email"
+  }
+]
